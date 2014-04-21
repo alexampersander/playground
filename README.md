@@ -1,5 +1,4 @@
 playground
 =====
 
-"When everyone's super, no one will be."
-- Syndrome
+> When everyone's super, no one will be. - Syndrome
