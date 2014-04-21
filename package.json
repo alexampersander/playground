@@ -1,0 +1,14 @@
+{
+    "name": "playground",
+    "version": "0.0.1",
+    "engines": {
+        "node": "0.10.26",
+        "npm": "1.4.3"
+    },
+    "dependencies": {
+        "express": "latest",
+        "bcryptjs": "latest",
+        "jade": "latest",
+        "redis": "latest"
+    }
+}
